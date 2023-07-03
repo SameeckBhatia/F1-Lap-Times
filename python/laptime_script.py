@@ -4,7 +4,6 @@ import requests
 import threading
 from bs4 import *
 from pandas import *
-from typing import *
 
 # dataframe header row
 header_dict = {
