@@ -3700,3 +3700,571 @@ round,grand_prix,constructor,driver,lap,time
 8,Canada,Ferrari,SAI,68,76.541
 8,Canada,Ferrari,SAI,69,76.349
 8,Canada,Ferrari,SAI,70,76.905
+9,Austria,Ferrari,LEC,1,79.336
+9,Austria,Ferrari,LEC,2,115.468
+9,Austria,Ferrari,LEC,3,123.609
+9,Austria,Ferrari,LEC,4,70.392
+9,Austria,Ferrari,LEC,5,70.416
+9,Austria,Ferrari,LEC,6,70.428
+9,Austria,Ferrari,LEC,7,70.305
+9,Austria,Ferrari,LEC,8,70.416
+9,Austria,Ferrari,LEC,9,70.307
+9,Austria,Ferrari,LEC,10,70.349
+9,Austria,Ferrari,LEC,11,70.431
+9,Austria,Ferrari,LEC,12,70.7
+9,Austria,Ferrari,LEC,13,70.858
+9,Austria,Ferrari,LEC,14,74.959
+9,Austria,Ferrari,LEC,15,93.78
+9,Austria,Ferrari,LEC,16,90.565
+9,Austria,Ferrari,LEC,17,69.29
+9,Austria,Ferrari,LEC,18,69.617
+9,Austria,Ferrari,LEC,19,69.509
+9,Austria,Ferrari,LEC,20,69.55
+9,Austria,Ferrari,LEC,21,69.38
+9,Austria,Ferrari,LEC,22,69.603
+9,Austria,Ferrari,LEC,23,69.853
+9,Austria,Ferrari,LEC,24,69.956
+9,Austria,Ferrari,LEC,25,69.86
+9,Austria,Ferrari,LEC,26,69.905
+9,Austria,Ferrari,LEC,27,69.899
+9,Austria,Ferrari,LEC,28,70.01
+9,Austria,Ferrari,LEC,29,69.96
+9,Austria,Ferrari,LEC,30,69.916
+9,Austria,Ferrari,LEC,31,70.29
+9,Austria,Ferrari,LEC,32,70.416
+9,Austria,Ferrari,LEC,33,70.389
+9,Austria,Ferrari,LEC,34,70.321
+9,Austria,Ferrari,LEC,35,70.891
+9,Austria,Ferrari,LEC,36,70.548
+9,Austria,Ferrari,LEC,37,70.671
+9,Austria,Ferrari,LEC,38,70.659
+9,Austria,Ferrari,LEC,39,70.724
+9,Austria,Ferrari,LEC,40,70.896
+9,Austria,Ferrari,LEC,41,70.828
+9,Austria,Ferrari,LEC,42,70.522
+9,Austria,Ferrari,LEC,43,70.624
+9,Austria,Ferrari,LEC,44,70.475
+9,Austria,Ferrari,LEC,45,70.475
+9,Austria,Ferrari,LEC,46,70.631
+9,Austria,Ferrari,LEC,47,73.741
+9,Austria,Ferrari,LEC,48,86.182
+9,Austria,Ferrari,LEC,49,69.595
+9,Austria,Ferrari,LEC,50,68.863
+9,Austria,Ferrari,LEC,51,68.82
+9,Austria,Ferrari,LEC,52,69.14
+9,Austria,Ferrari,LEC,53,69.14
+9,Austria,Ferrari,LEC,54,68.878
+9,Austria,Ferrari,LEC,55,68.947
+9,Austria,Ferrari,LEC,56,69.074
+9,Austria,Ferrari,LEC,57,69.347
+9,Austria,Ferrari,LEC,58,69.222
+9,Austria,Ferrari,LEC,59,69.182
+9,Austria,Ferrari,LEC,60,68.957
+9,Austria,Ferrari,LEC,61,69.061
+9,Austria,Ferrari,LEC,62,69.375
+9,Austria,Ferrari,LEC,63,69.02
+9,Austria,Ferrari,LEC,64,69.086
+9,Austria,Ferrari,LEC,65,69.335
+9,Austria,Ferrari,LEC,66,69.271
+9,Austria,Ferrari,LEC,67,69.116
+9,Austria,Ferrari,LEC,68,68.972
+9,Austria,Ferrari,LEC,69,69.096
+9,Austria,Ferrari,LEC,70,69.365
+9,Austria,Ferrari,LEC,71,69.99
+9,Austria,Ferrari,SAI,1,81.661
+9,Austria,Ferrari,SAI,2,114.713
+9,Austria,Ferrari,SAI,3,122.583
+9,Austria,Ferrari,SAI,4,70.439
+9,Austria,Ferrari,SAI,5,70.409
+9,Austria,Ferrari,SAI,6,70.399
+9,Austria,Ferrari,SAI,7,70.358
+9,Austria,Ferrari,SAI,8,70.431
+9,Austria,Ferrari,SAI,9,70.288
+9,Austria,Ferrari,SAI,10,70.57
+9,Austria,Ferrari,SAI,11,70.395
+9,Austria,Ferrari,SAI,12,70.662
+9,Austria,Ferrari,SAI,13,70.807
+9,Austria,Ferrari,SAI,14,77.041
+9,Austria,Ferrari,SAI,15,96.838
+9,Austria,Ferrari,SAI,16,90.511
+9,Austria,Ferrari,SAI,17,69.129
+9,Austria,Ferrari,SAI,18,69.348
+9,Austria,Ferrari,SAI,19,69.348
+9,Austria,Ferrari,SAI,20,69.351
+9,Austria,Ferrari,SAI,21,69.977
+9,Austria,Ferrari,SAI,22,70.199
+9,Austria,Ferrari,SAI,23,70.005
+9,Austria,Ferrari,SAI,24,70.001
+9,Austria,Ferrari,SAI,25,69.963
+9,Austria,Ferrari,SAI,26,70.65
+9,Austria,Ferrari,SAI,27,70.031
+9,Austria,Ferrari,SAI,28,69.957
+9,Austria,Ferrari,SAI,29,70.145
+9,Austria,Ferrari,SAI,30,70.203
+9,Austria,Ferrari,SAI,31,70.311
+9,Austria,Ferrari,SAI,32,70.246
+9,Austria,Ferrari,SAI,33,70.043
+9,Austria,Ferrari,SAI,34,70.023
+9,Austria,Ferrari,SAI,35,70.298
+9,Austria,Ferrari,SAI,36,70.336
+9,Austria,Ferrari,SAI,37,70.329
+9,Austria,Ferrari,SAI,38,70.311
+9,Austria,Ferrari,SAI,39,70.536
+9,Austria,Ferrari,SAI,40,70.363
+9,Austria,Ferrari,SAI,41,70.577
+9,Austria,Ferrari,SAI,42,70.521
+9,Austria,Ferrari,SAI,43,70.197
+9,Austria,Ferrari,SAI,44,70.677
+9,Austria,Ferrari,SAI,45,74.51
+9,Austria,Ferrari,SAI,46,92.869
+9,Austria,Ferrari,SAI,47,68.943
+9,Austria,Ferrari,SAI,48,68.948
+9,Austria,Ferrari,SAI,49,68.906
+9,Austria,Ferrari,SAI,50,68.88
+9,Austria,Ferrari,SAI,51,69.202
+9,Austria,Ferrari,SAI,52,69.162
+9,Austria,Ferrari,SAI,53,69.175
+9,Austria,Ferrari,SAI,54,69.089
+9,Austria,Ferrari,SAI,55,69.393
+9,Austria,Ferrari,SAI,56,69.242
+9,Austria,Ferrari,SAI,57,69.894
+9,Austria,Ferrari,SAI,58,69.572
+9,Austria,Ferrari,SAI,59,70.326
+9,Austria,Ferrari,SAI,60,70.044
+9,Austria,Ferrari,SAI,61,70.515
+9,Austria,Ferrari,SAI,62,69.295
+9,Austria,Ferrari,SAI,63,69.751
+9,Austria,Ferrari,SAI,64,69.647
+9,Austria,Ferrari,SAI,65,69.414
+9,Austria,Ferrari,SAI,66,69.496
+9,Austria,Ferrari,SAI,67,69.628
+9,Austria,Ferrari,SAI,68,69.416
+9,Austria,Ferrari,SAI,69,69.647
+9,Austria,Ferrari,SAI,70,69.492
+9,Austria,Ferrari,SAI,71,69.348
+9,Austria,Mercedes,HAM,1,84.134
+9,Austria,Mercedes,HAM,2,115.179
+9,Austria,Mercedes,HAM,3,120.135
+9,Austria,Mercedes,HAM,4,70.981
+9,Austria,Mercedes,HAM,5,70.706
+9,Austria,Mercedes,HAM,6,70.746
+9,Austria,Mercedes,HAM,7,70.597
+9,Austria,Mercedes,HAM,8,70.579
+9,Austria,Mercedes,HAM,9,70.598
+9,Austria,Mercedes,HAM,10,70.901
+9,Austria,Mercedes,HAM,11,70.857
+9,Austria,Mercedes,HAM,12,70.972
+9,Austria,Mercedes,HAM,13,71.152
+9,Austria,Mercedes,HAM,14,78.406
+9,Austria,Mercedes,HAM,15,106.689
+9,Austria,Mercedes,HAM,16,73.6
+9,Austria,Mercedes,HAM,17,69.895
+9,Austria,Mercedes,HAM,18,69.7
+9,Austria,Mercedes,HAM,19,70.999
+9,Austria,Mercedes,HAM,20,70.109
+9,Austria,Mercedes,HAM,21,70.138
+9,Austria,Mercedes,HAM,22,71.036
+9,Austria,Mercedes,HAM,23,70.687
+9,Austria,Mercedes,HAM,24,70.575
+9,Austria,Mercedes,HAM,25,70.712
+9,Austria,Mercedes,HAM,26,70.271
+9,Austria,Mercedes,HAM,27,70.148
+9,Austria,Mercedes,HAM,28,71.541
+9,Austria,Mercedes,HAM,29,70.847
+9,Austria,Mercedes,HAM,30,70.644
+9,Austria,Mercedes,HAM,31,70.579
+9,Austria,Mercedes,HAM,32,70.541
+9,Austria,Mercedes,HAM,33,70.533
+9,Austria,Mercedes,HAM,34,70.326
+9,Austria,Mercedes,HAM,35,70.978
+9,Austria,Mercedes,HAM,36,70.725
+9,Austria,Mercedes,HAM,37,70.857
+9,Austria,Mercedes,HAM,38,70.652
+9,Austria,Mercedes,HAM,39,70.959
+9,Austria,Mercedes,HAM,40,71.384
+9,Austria,Mercedes,HAM,41,70.868
+9,Austria,Mercedes,HAM,42,74.083
+9,Austria,Mercedes,HAM,43,93.868
+9,Austria,Mercedes,HAM,44,70.483
+9,Austria,Mercedes,HAM,45,70.105
+9,Austria,Mercedes,HAM,46,69.545
+9,Austria,Mercedes,HAM,47,69.297
+9,Austria,Mercedes,HAM,48,69.16
+9,Austria,Mercedes,HAM,49,69.735
+9,Austria,Mercedes,HAM,50,69.371
+9,Austria,Mercedes,HAM,51,69.414
+9,Austria,Mercedes,HAM,52,69.22
+9,Austria,Mercedes,HAM,53,69.538
+9,Austria,Mercedes,HAM,54,69.317
+9,Austria,Mercedes,HAM,55,69.227
+9,Austria,Mercedes,HAM,56,69.485
+9,Austria,Mercedes,HAM,57,69.988
+9,Austria,Mercedes,HAM,58,69.606
+9,Austria,Mercedes,HAM,59,69.869
+9,Austria,Mercedes,HAM,60,70.029
+9,Austria,Mercedes,HAM,61,69.856
+9,Austria,Mercedes,HAM,62,69.699
+9,Austria,Mercedes,HAM,63,69.541
+9,Austria,Mercedes,HAM,64,69.933
+9,Austria,Mercedes,HAM,65,70.506
+9,Austria,Mercedes,HAM,66,69.49
+9,Austria,Mercedes,HAM,67,69.974
+9,Austria,Mercedes,HAM,68,69.766
+9,Austria,Mercedes,HAM,69,70.02
+9,Austria,Mercedes,HAM,70,70.285
+9,Austria,Mercedes,HAM,71,70.457
+9,Austria,Red Bull,MAX,1,77.639
+9,Austria,Red Bull,MAX,2,115.479
+9,Austria,Red Bull,MAX,3,124.721
+9,Austria,Red Bull,MAX,4,69.691
+9,Austria,Red Bull,MAX,5,70.026
+9,Austria,Red Bull,MAX,6,70.156
+9,Austria,Red Bull,MAX,7,70.168
+9,Austria,Red Bull,MAX,8,69.967
+9,Austria,Red Bull,MAX,9,69.989
+9,Austria,Red Bull,MAX,10,69.856
+9,Austria,Red Bull,MAX,11,70.051
+9,Austria,Red Bull,MAX,12,69.833
+9,Austria,Red Bull,MAX,13,70.196
+9,Austria,Red Bull,MAX,14,73.573
+9,Austria,Red Bull,MAX,15,93.592
+9,Austria,Red Bull,MAX,16,79.611
+9,Austria,Red Bull,MAX,17,69.924
+9,Austria,Red Bull,MAX,18,70.002
+9,Austria,Red Bull,MAX,19,69.942
+9,Austria,Red Bull,MAX,20,70.16
+9,Austria,Red Bull,MAX,21,70.142
+9,Austria,Red Bull,MAX,22,70.337
+9,Austria,Red Bull,MAX,23,70.396
+9,Austria,Red Bull,MAX,24,73.519
+9,Austria,Red Bull,MAX,25,86.769
+9,Austria,Red Bull,MAX,26,68.929
+9,Austria,Red Bull,MAX,27,69.245
+9,Austria,Red Bull,MAX,28,69.251
+9,Austria,Red Bull,MAX,29,69.289
+9,Austria,Red Bull,MAX,30,69.373
+9,Austria,Red Bull,MAX,31,69.576
+9,Austria,Red Bull,MAX,32,69.603
+9,Austria,Red Bull,MAX,33,69.631
+9,Austria,Red Bull,MAX,34,69.779
+9,Austria,Red Bull,MAX,35,69.265
+9,Austria,Red Bull,MAX,36,69.367
+9,Austria,Red Bull,MAX,37,69.707
+9,Austria,Red Bull,MAX,38,69.568
+9,Austria,Red Bull,MAX,39,69.386
+9,Austria,Red Bull,MAX,40,69.431
+9,Austria,Red Bull,MAX,41,69.527
+9,Austria,Red Bull,MAX,42,69.511
+9,Austria,Red Bull,MAX,43,69.592
+9,Austria,Red Bull,MAX,44,69.678
+9,Austria,Red Bull,MAX,45,69.651
+9,Austria,Red Bull,MAX,46,69.563
+9,Austria,Red Bull,MAX,47,69.451
+9,Austria,Red Bull,MAX,48,69.419
+9,Austria,Red Bull,MAX,49,73.176
+9,Austria,Red Bull,MAX,50,86.268
+9,Austria,Red Bull,MAX,51,68.15
+9,Austria,Red Bull,MAX,52,68.342
+9,Austria,Red Bull,MAX,53,68.235
+9,Austria,Red Bull,MAX,54,68.25
+9,Austria,Red Bull,MAX,55,68.273
+9,Austria,Red Bull,MAX,56,68.35
+9,Austria,Red Bull,MAX,57,68.412
+9,Austria,Red Bull,MAX,58,68.489
+9,Austria,Red Bull,MAX,59,68.609
+9,Austria,Red Bull,MAX,60,68.535
+9,Austria,Red Bull,MAX,61,68.485
+9,Austria,Red Bull,MAX,62,68.567
+9,Austria,Red Bull,MAX,63,68.624
+9,Austria,Red Bull,MAX,64,68.692
+9,Austria,Red Bull,MAX,65,68.878
+9,Austria,Red Bull,MAX,66,68.601
+9,Austria,Red Bull,MAX,67,68.854
+9,Austria,Red Bull,MAX,68,69.216
+9,Austria,Red Bull,MAX,69,72.228
+9,Austria,Red Bull,MAX,70,87.83
+9,Austria,Red Bull,MAX,71,67.012
+9,Austria,Mercedes,RUS,1,94.41
+9,Austria,Mercedes,RUS,2,119.477
+9,Austria,Mercedes,RUS,3,108.025
+9,Austria,Mercedes,RUS,4,72.3
+9,Austria,Mercedes,RUS,5,72.099
+9,Austria,Mercedes,RUS,6,71.383
+9,Austria,Mercedes,RUS,7,71.204
+9,Austria,Mercedes,RUS,8,71.315
+9,Austria,Mercedes,RUS,9,71.596
+9,Austria,Mercedes,RUS,10,72.036
+9,Austria,Mercedes,RUS,11,71.533
+9,Austria,Mercedes,RUS,12,71.369
+9,Austria,Mercedes,RUS,13,71.439
+9,Austria,Mercedes,RUS,14,80.622
+9,Austria,Mercedes,RUS,15,107.551
+9,Austria,Mercedes,RUS,16,71.146
+9,Austria,Mercedes,RUS,17,71.287
+9,Austria,Mercedes,RUS,18,71.021
+9,Austria,Mercedes,RUS,19,71.065
+9,Austria,Mercedes,RUS,20,71.17
+9,Austria,Mercedes,RUS,21,70.723
+9,Austria,Mercedes,RUS,22,70.789
+9,Austria,Mercedes,RUS,23,70.796
+9,Austria,Mercedes,RUS,24,70.712
+9,Austria,Mercedes,RUS,25,70.454
+9,Austria,Mercedes,RUS,26,70.751
+9,Austria,Mercedes,RUS,27,70.63
+9,Austria,Mercedes,RUS,28,70.6
+9,Austria,Mercedes,RUS,29,71.045
+9,Austria,Mercedes,RUS,30,71.351
+9,Austria,Mercedes,RUS,31,70.996
+9,Austria,Mercedes,RUS,32,70.788
+9,Austria,Mercedes,RUS,33,70.726
+9,Austria,Mercedes,RUS,34,70.535
+9,Austria,Mercedes,RUS,35,70.617
+9,Austria,Mercedes,RUS,36,70.731
+9,Austria,Mercedes,RUS,37,70.794
+9,Austria,Mercedes,RUS,38,70.964
+9,Austria,Mercedes,RUS,39,70.982
+9,Austria,Mercedes,RUS,40,71.034
+9,Austria,Mercedes,RUS,41,74.567
+9,Austria,Mercedes,RUS,42,87.635
+9,Austria,Mercedes,RUS,43,69.659
+9,Austria,Mercedes,RUS,44,69.822
+9,Austria,Mercedes,RUS,45,69.726
+9,Austria,Mercedes,RUS,46,69.688
+9,Austria,Mercedes,RUS,47,69.779
+9,Austria,Mercedes,RUS,48,69.734
+9,Austria,Mercedes,RUS,49,69.283
+9,Austria,Mercedes,RUS,50,69.408
+9,Austria,Mercedes,RUS,51,69.71
+9,Austria,Mercedes,RUS,52,69.521
+9,Austria,Mercedes,RUS,53,69.395
+9,Austria,Mercedes,RUS,54,69.588
+9,Austria,Mercedes,RUS,55,69.649
+9,Austria,Mercedes,RUS,56,69.528
+9,Austria,Mercedes,RUS,57,69.587
+9,Austria,Mercedes,RUS,58,69.74
+9,Austria,Mercedes,RUS,59,69.731
+9,Austria,Mercedes,RUS,60,69.693
+9,Austria,Mercedes,RUS,61,69.658
+9,Austria,Mercedes,RUS,62,69.624
+9,Austria,Mercedes,RUS,63,69.65
+9,Austria,Mercedes,RUS,64,69.78
+9,Austria,Mercedes,RUS,65,69.649
+9,Austria,Mercedes,RUS,66,69.791
+9,Austria,Mercedes,RUS,67,70.089
+9,Austria,Mercedes,RUS,68,69.952
+9,Austria,Mercedes,RUS,69,70.326
+9,Austria,Mercedes,RUS,70,69.822
+9,Austria,Mercedes,RUS,71,70.16
+9,Austria,Red Bull,PER,1,97.175
+9,Austria,Red Bull,PER,2,119.546
+9,Austria,Red Bull,PER,3,106.027
+9,Austria,Red Bull,PER,4,72.376
+9,Austria,Red Bull,PER,5,71.557
+9,Austria,Red Bull,PER,6,71.46
+9,Austria,Red Bull,PER,7,71.169
+9,Austria,Red Bull,PER,8,71.259
+9,Austria,Red Bull,PER,9,71.56
+9,Austria,Red Bull,PER,10,71.0
+9,Austria,Red Bull,PER,11,71.526
+9,Austria,Red Bull,PER,12,70.283
+9,Austria,Red Bull,PER,13,71.219
+9,Austria,Red Bull,PER,14,80.206
+9,Austria,Red Bull,PER,15,93.269
+9,Austria,Red Bull,PER,16,74.453
+9,Austria,Red Bull,PER,17,70.289
+9,Austria,Red Bull,PER,18,70.399
+9,Austria,Red Bull,PER,19,70.205
+9,Austria,Red Bull,PER,20,71.261
+9,Austria,Red Bull,PER,21,70.182
+9,Austria,Red Bull,PER,22,71.136
+9,Austria,Red Bull,PER,23,70.62
+9,Austria,Red Bull,PER,24,70.377
+9,Austria,Red Bull,PER,25,74.401
+9,Austria,Red Bull,PER,26,86.979
+9,Austria,Red Bull,PER,27,69.294
+9,Austria,Red Bull,PER,28,69.388
+9,Austria,Red Bull,PER,29,70.261
+9,Austria,Red Bull,PER,30,69.783
+9,Austria,Red Bull,PER,31,69.486
+9,Austria,Red Bull,PER,32,69.601
+9,Austria,Red Bull,PER,33,70.283
+9,Austria,Red Bull,PER,34,69.433
+9,Austria,Red Bull,PER,35,69.456
+9,Austria,Red Bull,PER,36,69.321
+9,Austria,Red Bull,PER,37,69.338
+9,Austria,Red Bull,PER,38,69.258
+9,Austria,Red Bull,PER,39,69.547
+9,Austria,Red Bull,PER,40,69.337
+9,Austria,Red Bull,PER,41,69.805
+9,Austria,Red Bull,PER,42,69.79
+9,Austria,Red Bull,PER,43,69.287
+9,Austria,Red Bull,PER,44,69.489
+9,Austria,Red Bull,PER,45,69.271
+9,Austria,Red Bull,PER,46,69.288
+9,Austria,Red Bull,PER,47,69.402
+9,Austria,Red Bull,PER,48,69.771
+9,Austria,Red Bull,PER,49,69.425
+9,Austria,Red Bull,PER,50,73.267
+9,Austria,Red Bull,PER,51,85.421
+9,Austria,Red Bull,PER,52,68.111
+9,Austria,Red Bull,PER,53,68.726
+9,Austria,Red Bull,PER,54,68.525
+9,Austria,Red Bull,PER,55,68.604
+9,Austria,Red Bull,PER,56,68.324
+9,Austria,Red Bull,PER,57,69.674
+9,Austria,Red Bull,PER,58,69.537
+9,Austria,Red Bull,PER,59,70.33
+9,Austria,Red Bull,PER,60,70.095
+9,Austria,Red Bull,PER,61,69.188
+9,Austria,Red Bull,PER,62,68.887
+9,Austria,Red Bull,PER,63,69.104
+9,Austria,Red Bull,PER,64,69.114
+9,Austria,Red Bull,PER,65,69.077
+9,Austria,Red Bull,PER,66,69.19
+9,Austria,Red Bull,PER,67,69.58
+9,Austria,Red Bull,PER,68,69.137
+9,Austria,Red Bull,PER,69,69.176
+9,Austria,Red Bull,PER,70,69.163
+9,Austria,Red Bull,PER,71,69.317
+9,Austria,Aston Martin,ALO,1,88.176
+9,Austria,Aston Martin,ALO,2,115.765
+9,Austria,Aston Martin,ALO,3,116.216
+9,Austria,Aston Martin,ALO,4,71.892
+9,Austria,Aston Martin,ALO,5,71.059
+9,Austria,Aston Martin,ALO,6,71.376
+9,Austria,Aston Martin,ALO,7,70.822
+9,Austria,Aston Martin,ALO,8,71.228
+9,Austria,Aston Martin,ALO,9,70.887
+9,Austria,Aston Martin,ALO,10,70.966
+9,Austria,Aston Martin,ALO,11,71.041
+9,Austria,Aston Martin,ALO,12,70.925
+9,Austria,Aston Martin,ALO,13,70.91
+9,Austria,Aston Martin,ALO,14,79.715
+9,Austria,Aston Martin,ALO,15,93.034
+9,Austria,Aston Martin,ALO,16,88.475
+9,Austria,Aston Martin,ALO,17,70.619
+9,Austria,Aston Martin,ALO,18,70.417
+9,Austria,Aston Martin,ALO,19,70.043
+9,Austria,Aston Martin,ALO,20,70.081
+9,Austria,Aston Martin,ALO,21,70.15
+9,Austria,Aston Martin,ALO,22,70.812
+9,Austria,Aston Martin,ALO,23,70.426
+9,Austria,Aston Martin,ALO,24,70.314
+9,Austria,Aston Martin,ALO,25,70.28
+9,Austria,Aston Martin,ALO,26,70.372
+9,Austria,Aston Martin,ALO,27,70.354
+9,Austria,Aston Martin,ALO,28,70.369
+9,Austria,Aston Martin,ALO,29,70.404
+9,Austria,Aston Martin,ALO,30,70.409
+9,Austria,Aston Martin,ALO,31,70.486
+9,Austria,Aston Martin,ALO,32,70.436
+9,Austria,Aston Martin,ALO,33,70.412
+9,Austria,Aston Martin,ALO,34,70.301
+9,Austria,Aston Martin,ALO,35,70.259
+9,Austria,Aston Martin,ALO,36,70.591
+9,Austria,Aston Martin,ALO,37,70.617
+9,Austria,Aston Martin,ALO,38,70.579
+9,Austria,Aston Martin,ALO,39,70.599
+9,Austria,Aston Martin,ALO,40,70.636
+9,Austria,Aston Martin,ALO,41,70.667
+9,Austria,Aston Martin,ALO,42,71.349
+9,Austria,Aston Martin,ALO,43,70.967
+9,Austria,Aston Martin,ALO,44,75.313
+9,Austria,Aston Martin,ALO,45,86.987
+9,Austria,Aston Martin,ALO,46,69.25
+9,Austria,Aston Martin,ALO,47,69.234
+9,Austria,Aston Martin,ALO,48,69.634
+9,Austria,Aston Martin,ALO,49,69.595
+9,Austria,Aston Martin,ALO,50,69.44
+9,Austria,Aston Martin,ALO,51,69.456
+9,Austria,Aston Martin,ALO,52,69.361
+9,Austria,Aston Martin,ALO,53,69.363
+9,Austria,Aston Martin,ALO,54,69.108
+9,Austria,Aston Martin,ALO,55,69.338
+9,Austria,Aston Martin,ALO,56,69.301
+9,Austria,Aston Martin,ALO,57,69.376
+9,Austria,Aston Martin,ALO,58,69.615
+9,Austria,Aston Martin,ALO,59,69.656
+9,Austria,Aston Martin,ALO,60,69.77
+9,Austria,Aston Martin,ALO,61,69.596
+9,Austria,Aston Martin,ALO,62,69.655
+9,Austria,Aston Martin,ALO,63,70.037
+9,Austria,Aston Martin,ALO,64,69.564
+9,Austria,Aston Martin,ALO,65,69.559
+9,Austria,Aston Martin,ALO,66,69.686
+9,Austria,Aston Martin,ALO,67,69.356
+9,Austria,Aston Martin,ALO,68,69.27
+9,Austria,Aston Martin,ALO,69,69.256
+9,Austria,Aston Martin,ALO,70,69.2
+9,Austria,Aston Martin,ALO,71,69.512
+9,Austria,Aston Martin,STR,1,91.378
+9,Austria,Aston Martin,STR,2,115.392
+9,Austria,Aston Martin,STR,3,114.143
+9,Austria,Aston Martin,STR,4,72.083
+9,Austria,Aston Martin,STR,5,71.685
+9,Austria,Aston Martin,STR,6,71.287
+9,Austria,Aston Martin,STR,7,70.99
+9,Austria,Aston Martin,STR,8,70.878
+9,Austria,Aston Martin,STR,9,71.103
+9,Austria,Aston Martin,STR,10,71.037
+9,Austria,Aston Martin,STR,11,71.028
+9,Austria,Aston Martin,STR,12,71.065
+9,Austria,Aston Martin,STR,13,71.156
+9,Austria,Aston Martin,STR,14,79.665
+9,Austria,Aston Martin,STR,15,97.489
+9,Austria,Aston Martin,STR,16,89.716
+9,Austria,Aston Martin,STR,17,70.593
+9,Austria,Aston Martin,STR,18,71.923
+9,Austria,Aston Martin,STR,19,70.79
+9,Austria,Aston Martin,STR,20,72.104
+9,Austria,Aston Martin,STR,21,71.707
+9,Austria,Aston Martin,STR,22,71.612
+9,Austria,Aston Martin,STR,23,70.767
+9,Austria,Aston Martin,STR,24,70.891
+9,Austria,Aston Martin,STR,25,70.691
+9,Austria,Aston Martin,STR,26,70.916
+9,Austria,Aston Martin,STR,27,70.789
+9,Austria,Aston Martin,STR,28,70.789
+9,Austria,Aston Martin,STR,29,71.004
+9,Austria,Aston Martin,STR,30,70.953
+9,Austria,Aston Martin,STR,31,70.933
+9,Austria,Aston Martin,STR,32,71.342
+9,Austria,Aston Martin,STR,33,71.187
+9,Austria,Aston Martin,STR,34,71.045
+9,Austria,Aston Martin,STR,35,70.97
+9,Austria,Aston Martin,STR,36,74.734
+9,Austria,Aston Martin,STR,37,88.068
+9,Austria,Aston Martin,STR,38,69.574
+9,Austria,Aston Martin,STR,39,69.608
+9,Austria,Aston Martin,STR,40,69.666
+9,Austria,Aston Martin,STR,41,69.752
+9,Austria,Aston Martin,STR,42,69.898
+9,Austria,Aston Martin,STR,43,70.136
+9,Austria,Aston Martin,STR,44,69.552
+9,Austria,Aston Martin,STR,45,69.697
+9,Austria,Aston Martin,STR,46,69.729
+9,Austria,Aston Martin,STR,47,69.727
+9,Austria,Aston Martin,STR,48,69.806
+9,Austria,Aston Martin,STR,49,69.812
+9,Austria,Aston Martin,STR,50,69.623
+9,Austria,Aston Martin,STR,51,69.708
+9,Austria,Aston Martin,STR,52,69.951
+9,Austria,Aston Martin,STR,53,69.895
+9,Austria,Aston Martin,STR,54,73.83
+9,Austria,Aston Martin,STR,55,86.08
+9,Austria,Aston Martin,STR,56,68.529
+9,Austria,Aston Martin,STR,57,68.463
+9,Austria,Aston Martin,STR,58,68.633
+9,Austria,Aston Martin,STR,59,68.669
+9,Austria,Aston Martin,STR,60,68.807
+9,Austria,Aston Martin,STR,61,68.939
+9,Austria,Aston Martin,STR,62,69.244
+9,Austria,Aston Martin,STR,63,69.27
+9,Austria,Aston Martin,STR,64,69.129
+9,Austria,Aston Martin,STR,65,68.99
+9,Austria,Aston Martin,STR,66,68.901
+9,Austria,Aston Martin,STR,67,68.855
+9,Austria,Aston Martin,STR,68,68.855
+9,Austria,Aston Martin,STR,69,69.183
+9,Austria,Aston Martin,STR,70,68.896
+9,Austria,Aston Martin,STR,71,69.34
