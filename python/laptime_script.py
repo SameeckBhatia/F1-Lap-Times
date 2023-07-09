@@ -23,7 +23,8 @@ cons_dict = {
 round_dict = {
     1: ["Bahrain", 57], 2: ["Saudi Arabia", 50], 3: ["Australia", 58],
     4: ["Azerbaijan", 51], 5: ["Miami", 57], 6: ["Monaco", 78],
-    7: ["Spain", 66], 8: ["Canada", 70], 9: ["Austria", 71]
+    7: ["Spain", 66], 8: ["Canada", 70], 9: ["Austria", 71],
+    10: ["Great Britain", 52]
 }
 
 # list to store all driver dataframes
