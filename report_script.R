@@ -5,7 +5,8 @@ lap_times <- read_csv("python/data.csv", show_col_types = FALSE)
 lap_times$driver[lap_times$driver == "MAX"] <- "VER"
 df_vec <- c()
 
-cols <- c("ALO" = "#00594E", "HAM" = "#04EAC1", "PER" = "#3671C6", "VER" = "#3A4162")
+cols <- c("ALO" = "#00594E", "HAM" = "#04EAC1", "RUS" = "#029797",
+          "PER" = "#3671C6", "SAI" = "#EF1A2D", "VER" = "#3A4162")
 
 # Functions
 plot_func <- function(dframe, gp, driver1, driver2, gp_color) {
@@ -93,3 +94,27 @@ df_vec[2] <- quantile(monaco$time, 0.75) + 1.5 * df_vec[1]
 monaco <- filter(monaco, time <= 80)
 
 plot_func(monaco, "Monaco", "ALO", "VER", "red1")
+
+# Spanish Grand Prix
+spain <- lap_times %>% filter(grand_prix == "Spain")
+df_vec[1] <- quantile(spain$time, 0.75) - quantile(spain$time, 0.25)
+df_vec[2] <- quantile(spain$time, 0.75) + 1.5 * df_vec[1]
+spain <- filter(spain, time <= 82)
+
+plot_func(spain, "Spain", "HAM", "RUS", "darkgoldenrod2")
+
+# Canadian Grand Prix
+canada <- lap_times %>% filter(grand_prix == "Canada")
+df_vec[1] <- quantile(canada$time, 0.75) - quantile(canada$time, 0.25)
+df_vec[2] <- quantile(canada$time, 0.75) + 1.5 * df_vec[1]
+canada <- filter(canada, time <= 82)
+
+plot_func(canada, "Canada", "ALO", "HAM", "#CE2A1D")
+
+# Austrian Grand Prix
+austria <- lap_times %>% filter(grand_prix == "Austria")
+df_vec[1] <- quantile(austria$time, 0.75) - quantile(austria$time, 0.25)
+df_vec[2] <- quantile(austria$time, 0.75) + 1.5 * df_vec[1]
+austria <- filter(austria, time <= df_vec[2])
+
+plot_func(austria, "Austria", "PER", "SAI", "#C9072A")
